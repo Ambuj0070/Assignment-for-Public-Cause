@@ -1,0 +1,36 @@
+body{
+    background-color: #F5f5f4;
+}
+.cloud{
+    position: absolute;
+    padding-left: 410px;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+.top{
+    position: absolute;
+    padding-left: 410px;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+.bg{
+    position: relative;
+    height:1350px;
+    width: 1080;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    z-index: -2;
+    text-align: center;
+}
+.bottom{
+    position: absolute;
+    padding-left: 400px;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
