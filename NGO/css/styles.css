@@ -16,10 +16,10 @@ body{
     z-index: -1;
 }
 .bg{
-    position: relative;
+    position: absolute;
     height:1350px;
     width: 1080;
-    padding-left: 0;
+    padding-left: 25rem;
     padding-right: 0;
     margin-left: auto;
     margin-right: auto;
